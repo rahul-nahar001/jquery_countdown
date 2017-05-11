@@ -1,0 +1,11 @@
+jquerycountdownblock:
+  version: 1.x
+  js:
+    js/jquery_countdown.js: {}
+    js/jquery.countdown-drupal.js: {}
+jquery.countdown:
+  version: 1.x
+  js:
+    js/jquery_countdown/jquery.countdown.js: {}
+  css:
+    css/jquery.countdown.css: {}
